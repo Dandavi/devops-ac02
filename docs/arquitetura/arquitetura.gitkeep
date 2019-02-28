@@ -1,0 +1,7 @@
+Quando iniciado pela primeira vez, sem nenhum historico, ele exige fazer o login ou criar um.
+Login - Telefone( xx-xxxxx-xxxx) - recebe um SMS - introduza o codigo do SMS - Login efetuado.
+Novo usuario - Nome; Sobrenome; Telefone(xx-xxxxx-xxxx) - Recebe um SMS - Introduza o codigo do SMS - Login efetuado.
+
+O aplicativo tem estrutura padrao, menu recolhido( avatar do usuario ou imagem predefinida) na parte superior a direita, 
+Abas-icones na parte inferior. Lupa - segue para a area de busca ; Casa - leva para a pagina principal ; Historico - Leva para
+todas as receitas que buscou anteriormente e os pedidos de compras.
