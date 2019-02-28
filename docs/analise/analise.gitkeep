@@ -1,0 +1,13 @@
+O aplicativo será chamado de '+Food', ele vai ser projetado para plataformas IOS e Android, o projeto vai ser um 
+aplicativo de receitas,que irá mostrar todo o modo de preparo do que você quer, junto com videos de como fazer entre outros, 
+e neste aplicativo de receita, ele indicara os melhores restaurantes para o prato que você escolheu junto com a localização 
+que será conectado direto com os dois aplicativos de transporte mais usados no momento que são 99Táxi e Uber para que você 
+possa se locomover de forma eficiente e prática pagando junto com a refeição escolhida, o valor vai ser dividido com o da 
+refeição e com o transporte, assim tornando mais pratica a forma de pagamento que aceitará todas as bandeiras disponiveis 
+do mercado.
+ 
+ Requisitos necessários para garantir o funcionamento básico do aplicativo.
+ - Ter conexão com o banco de dados, para armazenar os dados dos cliente e imagem das receitas.
+ - Ter conexão com o google maps e google rotas
+ - Conexão direta para o transporte, com os aplicativos como Uber e 99Táxi
+ . Ter um acordo com as empresas de creditos para que possas ter o pagamento de cartão crédito, débito e conta-corrente.
